@@ -6438,6 +6438,11 @@
   "resolved" "https://registry.npmjs.org/pngjs/-/pngjs-5.0.0.tgz"
   "version" "5.0.0"
 
+"pnpm@^7.13.4":
+  "integrity" "sha512-ZaP5+PRzXI0g4KijU7zx4hi7RUJcSYBJIb90e+lyTeQyRw91+peJoFAzWa63+4fjJIz6CqY0cNkP7trZXh5l8w=="
+  "resolved" "https://registry.npmjs.org/pnpm/-/pnpm-7.13.4.tgz"
+  "version" "7.13.4"
+
 "popmotion@11.0.3":
   "integrity" "sha512-Y55FLdj3UxkR7Vl3s7Qr4e9m0onSnP8W7d/xQLsoJM40vs6UKHFdygs6SWryasTZYqugMjm3BepCF4CWXDiHgA=="
   "resolved" "https://registry.npmjs.org/popmotion/-/popmotion-11.0.3.tgz"
